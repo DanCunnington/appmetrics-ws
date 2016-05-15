@@ -1,0 +1,25 @@
+{
+  "name": "appmetrics-ws",
+  "version": "1.0.0",
+  "description": "Websocket connector for Node Application Metrics",
+  "main": "index.js",
+  "dependencies": {
+    "appmetrics": "^1.0.4",
+    "socket.io": "^1.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appmetrics",
+    "websocket",
+    "performance",
+    "monitoring"
+  ],
+  "author": "Dan Cunnington <DanCunnington@uk.ibm.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/RuntimeTools/appmetrics-kafka.git"
+  },
+  "license": "Apache-2.0"
+}
